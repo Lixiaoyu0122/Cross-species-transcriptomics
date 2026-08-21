@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this repository in your research, please cite this work."
+title: "Cross-species transcriptomic and spatial mapping framework for cardiac fibroblast remodeling"
+type: software
+authors:
+  - family-names: Yuan
+    given-names: Xun
+    affiliation: Tongji University
+  - family-names: Li
+    given-names: Xiaoyu
+    affiliation: Tongji University
+repository-code: "https://github.com/Lixiaoyu0122/Cross-species-transcriptomics"
+license: MIT
+version: 1.0.0
+date-released: 2026-08-21
+keywords:
+  - cross-species transcriptomics
+  - spatial transcriptomics
+  - single-cell RNA sequencing
+  - cardiac fibrosis
+  - myocardial infarction
+  - fibroblast remodeling

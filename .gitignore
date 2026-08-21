@@ -1,0 +1,42 @@
+# R temporary files
+.Rhistory
+.RData
+.Ruserdata
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Conda environments
+.env
+.conda/
+
+# Large sequencing files
+*.h5ad
+*.h5
+*.hdf5
+*.loom
+
+# Raw data
+data/*
+!data/.gitkeep
+
+# Analysis results
+results/
+output/
+figures/
+
+# Temporary files
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
