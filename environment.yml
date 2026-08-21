@@ -1,0 +1,15 @@
+name: cross_species_transcriptomics
+
+channels:
+  - conda-forge
+  - bioconda
+
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - scanpy=1.11.5
+  - anndata
+  - pip
