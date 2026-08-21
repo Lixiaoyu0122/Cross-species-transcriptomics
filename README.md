@@ -1,2 +1,3 @@
 # Cross-species-transcriptomics
 Code for Tanshinones attenuate early post-infarction cardiac fibrosis by suppressing FSTL1-associated ECM remodeling
+Mouse bulk RNA-seq was analyzed to identify MI-induced and M-Tans-reversed transcriptional signatures. One-to-one mouse-human ortholog mapping was performed using Ensembl BioMart. The conserved signatures were projected onto human cardiac scRNA-seq and snRNA-seq datasets using Seurat module scoring. Spatial transcriptomic datasets were subsequently analyzed to determine the anatomical distribution of conserved fibroblast-associated remodeling signatures.
